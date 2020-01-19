@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 import Navbar from '../components/layout/Navbar';
-import Header from '../components/Home/Header/Header'
+import Gallery from '../components/Gallery/Gallery';
 
 import GlobalStyle from '../public/style/global.style';
 
@@ -20,7 +20,7 @@ const Index = (props) => {
       <main className="main">
         
           <Navbar/>
-            <Header/>
+          <Gallery/>
                     
       </main>
       <script src="/assets/js/page.min.js"></script>
@@ -29,5 +29,3 @@ const Index = (props) => {
 }
 
 export default Index;
-
-

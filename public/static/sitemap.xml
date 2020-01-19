@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-<url><loc>https://prototype-tkclean.herokuapp.com/index</loc>
+<url><loc>https://prototype-tkclean.herokuapp.com/contact</loc>
                 
                 
                 
-                <lastmod>2020-01-18</lastmod>
+                <lastmod>2020-01-19</lastmod>
+                </url><url><loc>https://prototype-tkclean.herokuapp.com/index</loc>
+                
+                
+                
+                <lastmod>2020-01-19</lastmod>
+                </url><url><loc>https://prototype-tkclean.herokuapp.com/sobre</loc>
+                
+                
+                
+                <lastmod>2020-01-19</lastmod>
                 </url></urlset>
